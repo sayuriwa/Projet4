@@ -65,6 +65,12 @@ h1 {
     background-color: #FFFFFF;
     border-left: #F3976C solid 20px;
 }
+h2 {
+    font-size: 22px;
+    color: #000000;
+    border-left: #F3976C double 10px;
+    padding-left: 2%;
+}
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
