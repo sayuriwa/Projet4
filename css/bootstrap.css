@@ -266,13 +266,13 @@ th {
     img {
         max-width: 100% !important
     }
-    h2,
+    
     h3,
     p {
         orphans: 3;
         widows: 3
     }
-    h2,
+    
     h3 {
         page-break-after: avoid
     }
@@ -1491,12 +1491,11 @@ hr {
 }
 
 
-.h2,
+
 .h3,
 .h4,
 .h5,
 .h6,
-h2,
 h3,
 h4,
 h5,
@@ -1508,8 +1507,7 @@ h6 {
 }
 
 
-.h2 .small,
-.h2 small,
+
 .h3 .small,
 .h3 small,
 .h4 .small,
@@ -1519,8 +1517,7 @@ h6 {
 .h6 .small,
 .h6 small,
 
-h2 .small,
-h2 small,
+
 h3 .small,
 h3 small,
 h4 .small,
@@ -1535,22 +1532,19 @@ h6 small {
 }
 
 
-.h2,
+
 .h3,
 
-h2,
+
 h3 {
     margin-top: 20px;
     margin-bottom: 10px
 }
 
 
-.h2 .small,
-.h2 small,
+
 .h3 .small,
 .h3 small,
-h2 .small,
-h2 small,
 h3 .small,
 h3 small {
     font-size: 65%
@@ -1583,10 +1577,7 @@ h6 small {
 
 
 
-.h2,
-h2 {
-    font-size: 30px
-}
+
 
 .h3,
 h3 {

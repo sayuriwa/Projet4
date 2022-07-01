@@ -136,7 +136,6 @@ h1 {
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 
-.d-bloc h2 a,
 .d-bloc h3 a,
 .d-bloc h4 a,
 .d-bloc h5 a,
@@ -152,7 +151,6 @@ h1 {
 .d-bloc a:hover .icon-md,
 .d-bloc a:hover .icon-lg,
 .d-bloc a:hover .icon-xl,
-.d-bloc h2 a:hover,
 .d-bloc h3 a:hover,
 .d-bloc h4 a:hover,
 .d-bloc h5 a:hover,
@@ -232,7 +230,6 @@ h1 {
 .l-bloc a .icon-md,
 .l-bloc a .icon-lg,
 .l-bloc a .icon-xl,
-.l-bloc h2 a,
 .l-bloc h3 a,
 .l-bloc h4 a,
 .l-bloc h5 a,
@@ -250,7 +247,6 @@ h1 {
 .l-bloc a:hover .icon-lg,
 .l-bloc a:hover .icon-xl,
 .l-bloc h1 a:hover,
-.l-bloc h2 a:hover,
 .l-bloc h3 a:hover,
 .l-bloc h4 a:hover,
 .l-bloc h5 a:hover,
@@ -643,7 +639,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h2,
 h3,
 h4,
 h5,
@@ -704,10 +699,7 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
-    font-size: 22px;
-    line-height: 1.4em;
-}
+
 
 h3 {
     font-size: 15px;
@@ -810,9 +802,7 @@ h4 {
     background-image: url("img/dots-bg.png");
 }*/
 
-/*.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}*/
+
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.jpg");
@@ -891,7 +881,6 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    h2,
     h3,
     h4,
     h5,
