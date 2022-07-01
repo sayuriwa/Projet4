@@ -72,10 +72,6 @@ dfn {
     font-style: italic
 }
 
-h1 {
-    margin: .67em 0;
-    font-size: 2em
-}
 
 mark {
     color: #000;
@@ -1494,13 +1490,12 @@ hr {
     cursor: pointer
 }
 
-.h1,
+
 .h2,
 .h3,
 .h4,
 .h5,
 .h6,
-h1,
 h2,
 h3,
 h4,
@@ -1512,8 +1507,7 @@ h6 {
     color: inherit
 }
 
-.h1 .small,
-.h1 small,
+
 .h2 .small,
 .h2 small,
 .h3 .small,
@@ -1524,8 +1518,7 @@ h6 {
 .h5 small,
 .h6 .small,
 .h6 small,
-h1 .small,
-h1 small,
+
 h2 .small,
 h2 small,
 h3 .small,
@@ -1541,24 +1534,21 @@ h6 small {
     color: #777
 }
 
-.h1,
+
 .h2,
 .h3,
-h1,
+
 h2,
 h3 {
     margin-top: 20px;
     margin-bottom: 10px
 }
 
-.h1 .small,
-.h1 small,
+
 .h2 .small,
 .h2 small,
 .h3 .small,
 .h3 small,
-h1 .small,
-h1 small,
 h2 .small,
 h2 small,
 h3 .small,
@@ -1591,10 +1581,7 @@ h6 small {
     font-size: 75%
 }
 
-.h1,
-h1 {
-    font-size: 36px
-}
+
 
 .h2,
 h2 {
@@ -5991,10 +5978,7 @@ a.badge:hover {
     background-color: #eee
 }
 
-.jumbotron .h1,
-.jumbotron h1 {
-    color: inherit
-}
+
 
 .jumbotron p {
     margin-bottom: 15px;
@@ -6025,10 +6009,7 @@ a.badge:hover {
         padding-right: 60px;
         padding-left: 60px
     }
-    .jumbotron .h1,
-    .jumbotron h1 {
-        font-size: 63px
-    }
+
 }
 
 .thumbnail {
